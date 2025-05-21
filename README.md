@@ -1,26 +1,26 @@
-# zaoqi123
-![徽章](https://img.shields.io/badge/版本-1.0.0-blue)  <!-- 可选：徽章 -->
+# my-python-demo 🚀
 
-一个简短的项目描述。
+![Python版本](https://img.shields.io/badge/Python-3.8%2B-blue)
 
-## 功能列表
-- 功能1
-- 功能2
+这是 **zaoqi123** 的第一个Python项目，演示如何发布到GitHub！
 
-## 安装步骤
+## 功能
+- 打印个性化欢迎语
+- 兼容Python 3.8+
+
+## 快速开始
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/你的用户名/仓库名.git
+   git clone https://github.com/zaoqi123/my-python-demo.git
    ```
-2. 安装依赖：
+2. 安装依赖（可选）：
    ```bash
-   pip install -r requirements.txt  # 如果是Python项目
+   pip install -r requirements.txt
+   ```
+3. 运行程序：
+   ```bash
+   python main.py
    ```
 
-## 使用示例
-```python
-print("Hello World!")
-```
-
-## 贡献指南
-欢迎提交Issue或Pull Request！
+## 贡献者
+- [zaoqi123](https://github.com/zaoqi123)
